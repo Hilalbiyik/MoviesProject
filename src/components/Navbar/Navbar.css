@@ -1,0 +1,36 @@
+.navbar{
+    padding: 0em 3em 0em 3em;
+    background-color: #101728;
+    color: white;
+    font-size: medium;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: #ff3c5f;
+   
+}
+.btn-lgn{
+    background: linear-gradient(to bottom right, #9340ff, #ff3c5f);
+    color: #101728;
+    font-size: medium;
+    color: black;
+    border-color: #101728;
+}
+
+.navbar-toggler{
+    background-color: #9340ff;
+}
+
+.icons{
+padding: 1em;
+
+}
+.icon{
+    /* padding-right:10px; */
+    cursor: pointer;
+    margin: 0px 15px;
+    font-size: 1.2em;
+    
+}
