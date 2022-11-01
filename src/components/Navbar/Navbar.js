@@ -27,10 +27,10 @@ function NavbarComponent() {
             style={{ maxHeight: "100px" }}
             navbarScroll
           >
-            <Nav.Link href="">Ana Sayfa</Nav.Link>
-            <Nav.Link href="#pricing">Diziler</Nav.Link>
-            <Nav.Link href="#pricing">Filmler</Nav.Link>
-            <Nav.Link href="#pricing">Popüler Başlıklar</Nav.Link>
+            <Nav.Link href="/">Ana Sayfa</Nav.Link>
+            <Nav.Link href="/series">Diziler</Nav.Link>
+            <Nav.Link href="/movies">Filmler</Nav.Link>
+            <Nav.Link href="/trends">Popüler Başlıklar</Nav.Link>
           </Nav>
           <Form className="d-flex">
             <div className="icons">
