@@ -7,6 +7,12 @@
 .nav-link{
     color: white;
 }
+.navbar-nav .nav-link.active{
+    color: white;
+}
+
+
+
 .nav-link:hover{
     color: #ff3c5f;
    
