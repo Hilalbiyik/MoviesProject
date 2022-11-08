@@ -40,6 +40,7 @@ function NavbarComponent() {
             <Button className="btn-lgn" size="lg">
               Oturum Aç
             </Button>
+            
           </Form>
         </Navbar.Collapse>
       </Container>

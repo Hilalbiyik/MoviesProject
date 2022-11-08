@@ -21,7 +21,7 @@
 
 /* Button */
 .btn-lgn {
-  background: linear-gradient(to bottom right, #9340ff, #ff3c5f);
+  background: linear-gradient(to bottom right, #9340ff, #ff3c5f)!important;
   color: #101728;
   font-size: medium;
   color: black;
@@ -36,4 +36,8 @@
   cursor: pointer;
   margin: 0px 15px;
   font-size: 1.2em;
+}
+/*Search Bar*/
+.h3{
+  color: #9340ff;
 }
